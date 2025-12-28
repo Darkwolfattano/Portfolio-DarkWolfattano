@@ -1,5 +1,6 @@
 ### Self Building
-[Play It your self Here](https://www.roblox.com/games/131592986004949/self-building){target="_blank"}
+<a href="https://www.roblox.com/games/131592986004949/self-building" target="_blank">Play It your self Here</a>
+
 
 __About __<br>
 This is a Building, that selfs build when told. <br>
