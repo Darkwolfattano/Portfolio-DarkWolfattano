@@ -12,8 +12,8 @@ theme:
   font:
     text: Playfair Display
     code: Red Hat Mono
-  logo: assets/logo.png
-  favicon: assets/logo.png
+  logo: Assets/Logo.png
+  favicon: Assets/Logo.png
   features:
     - navigation.footer
     - navigation.indexes
