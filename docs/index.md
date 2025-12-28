@@ -13,5 +13,5 @@ I am a programmer with 12 years of experience. I am currently working on my Bach
     [BellumImperii](https://www.roblox.com/games/134819267834356/IMPERIUM) Currently Active
 === "What I did"
     Due to the nature of this game; it was a team of programmers. I was responsible for the title system, the armor system, and the group reputations.
-=== "NDA Explination"
+=== "NDA Explanation"
    With this studio I signed an NDA, so there are no code snippets, nor pictures.
