@@ -1,0 +1,58 @@
+site_name: DarkWolfAttano
+nav:
+  - Home: index.md
+  - CodeExamples: 
+    - Robot: ControlPanel.md
+    - SelfBuilding: Building.md
+  - FAQ: FAQ.md
+  - Contact Me: Contact.md
+
+theme:
+  name: material
+  font:
+    text: Playfair Display
+    code: Red Hat Mono
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  features:
+    - navigation.footer
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.instant.prefetch
+    
+
+ 
+  palette: 
+    #Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/account-cowboy-hat
+        name: Dark mode
+      primary: lime
+      accent: pink
+    #Light Mode
+    - scheme: default
+      toggle: 
+        icon: material/account-cowboy-hat-outline
+        name: Light mode
+      primary: red
+      accent: purple
+  
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: _span
+      pygments_lang_class: true
+  - pymdownx.superfences 
+  - pymdownx.snippets
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra:
+  social:
+    - icon: simple/youtube
+      link: https://www.youtube.com/@ThatOneScripts
+copyright: © 2024 DarkWolfAttano DarkWolfAttano. All rights reserved.
+  
+      
