@@ -1,8 +1,8 @@
 
 ### Roblox
-<a href="https://www.roblox.com/users/28626018/profile" target="_blank">RobloxAccount</a>
+<a href="https://www.roblox.com/users/28626018/profile" target="_blank">Roblox Account</a>
 
 ### Discord
-this Is the Best way
-<a href="https://discord.com/users/168197309065199616" target="_blank">Add me on Discord</a><br>
+This is the best way to contact me. <br>
+<a href="https://discord.com/users/168197309065199616" target="_blank">Add me on Discord!</a><br>
 User: nickyattano

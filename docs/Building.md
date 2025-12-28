@@ -1,9 +1,9 @@
 ### Self Building
-<a href="https://www.roblox.com/games/131592986004949/self-building" target="_blank">Play It your self Here</a>
+<a href="https://www.roblox.com/games/131592986004949/self-building" target="_blank">Play it for yourself Here</a>
 
 
 __About __<br>
-This is a Building, that selfs build when told. <br>
+This is a Building, that builds itself when prompted. <br>
 
 <div markdown="0">
 <video width="100%" height="300" controls>
@@ -17,7 +17,7 @@ This is a Building, that selfs build when told. <br>
 ## Client
 
 === "Small Explination"
-    The actual movement of this was done on the client to reduce stress on the server
+    The actual movement of this was done on the client to reduce stress on the server.
 
 === "Code Snippet"
 	```lua
@@ -66,7 +66,7 @@ This is a Building, that selfs build when told. <br>
 
 
 === "Small Explination"
-    The server handles a few things, the first being remote throtelling, back when this system was orginally made there weren't any good Libarys to handle it. Thus I had to make one for adding more buildings.
+    The server handles a few things, the first being remote throttling, back when this system was originally made, there weren't any good libraries to handle it, thus I had to make one for adding more buildings.
 
 === "Remote throttle"
 	```lua

@@ -55,10 +55,10 @@
 	</div>
 
 
-## Robot Wonder
+## Robot Wander
 
 === "About"
-    This robot servers no real purpose in the highlight of this game, but shows Ai interfacing and working. The section will demonstrate the wonder feature.
+    This robot serves no real purpose in the highlight of this game, but shows Ai interfacing and working. The section will demonstrate the wander feature.
 === "Code Snippit"
 
     ```lua
@@ -122,7 +122,7 @@
 ## Robot Follow 
 
 === "About"
-	This feature is to call the robot back to you, after setting it to stay or wonder.
+	This feature is to call the robot back to you, after setting it to stay or wander.
 === "Code Snippet"
 	```lua
 			task.spawn(function()
