@@ -16,7 +16,7 @@ This is a Building, that builds itself when prompted. <br>
 
 ## Client
 
-=== "Small Explination"
+=== "Small Explanation"
     The actual movement of this was done on the client to reduce stress on the server.
 
 === "Code Snippet"
@@ -65,7 +65,7 @@ This is a Building, that builds itself when prompted. <br>
 ## Server
 
 
-=== "Small Explination"
+=== "Small Explanation"
     The server handles a few things, the first being remote throttling, back when this system was originally made, there weren't any good libraries to handle it, thus I had to make one for adding more buildings.
 
 === "Remote throttle"

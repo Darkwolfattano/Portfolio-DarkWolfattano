@@ -15,7 +15,7 @@
 
 
 
-=== "Code Snippit"
+=== "Code Snippet"
 
     ```lua
       function Menu_Camera()
@@ -59,7 +59,7 @@
 
 === "About"
     This robot serves no real purpose in the highlight of this game, but shows Ai interfacing and working. The section will demonstrate the wander feature.
-=== "Code Snippit"
+=== "Code Snippet"
 
     ```lua
     	task.spawn(function()
@@ -201,7 +201,7 @@
 === "About"
 
 	This functionality forces the robot to stay put, the animation may be a little wonky. But I love it.
-=== "Code Snippit"
+=== "Code Snippet"
 	```lua
 			function Robot:Stay()
 				self:AttemptAnimation("Stay")
