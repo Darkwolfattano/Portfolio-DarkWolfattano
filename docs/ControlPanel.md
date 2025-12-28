@@ -45,10 +45,13 @@
 
     ```
 === "Video"
+<div markdown="0">
 <video width="100%" height="300" controls>
-<source src="/Portfolio-DarkWolfattano/Assets/Robot/Menu.mp4" type="video/mp4">
+  <source src="../Assets/Robot/Menu.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+</div>
+
 
 ## Robot Wonder
 
@@ -107,10 +110,12 @@
 	end)
     ```
 === "Video"
+<div markdown="0">
 <video width="100%" height="300" controls>
-<source src="/Portfolio-DarkWolfattano/Assets/Robot/Wonder.mp4" type="video/mp4">
+  <source src="../Assets/Robot/Wonder.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+</div>
 
 ## Robot Follow 
 
@@ -180,10 +185,12 @@
 	```
 
 === "Video"
+<div markdown="0">
 <video width="100%" height="300" controls>
-<source src="/Portfolio-DarkWolfattano/Assets/Robot/Follow.mp4" type="video/mp4">
+  <source src="../Assets/Robot/Follow.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+</div>
 
 
 ## Robot Stay
@@ -199,10 +206,13 @@
 			end
 	```
 === "Video"
+<div markdown="0">
 <video width="100%" height="300" controls>
-<source src="/Portfolio-DarkWolfattano/Assets/Robot/Stay.mp4" type="video/mp4">
+  <source src="../Assets/Robot/Stay.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+</div>
+
 
 
 	 
