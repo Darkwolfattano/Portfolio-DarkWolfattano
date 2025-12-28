@@ -45,7 +45,10 @@
 
     ```
 === "Video"
-    <video width="4000" height = 300 controls> <source src="Assets/Robot/Menu.mp4" type="video/mp4"> </video> 
+    <video width="100%" height="300" controls>
+  <source src="Assets/Robot/Menu.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ## Robot Wonder
@@ -105,7 +108,10 @@
 	end)
     ```
 === "Video"
-      <video width="4000" height = 300 controls> <source src="Assets/Robot/Wonder.mp4" type="video/mp4"> </video>
+      <video width="100%" height="300" controls>
+  <source src="Assets/Robot/Wonder.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Robot Follow 
 
@@ -175,7 +181,10 @@
 	```
 
 === "Video"
-	<video width="4000" height = 300 controls> <source src="Assets/Robot/Follow.mp4" type="video/mp4"> </video>
+	<video width="100%" height="300" controls>
+  <source src="Assets/Robot/Follow.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ## Robot Stay
@@ -191,6 +200,9 @@
 			end
 	```
 === "Video"
-	<video width="4000" height = 300 controls> <source src="Assets/Robot/Stay.mp4" type="video/mp4"> </video>
+	<video width="100%" height="300" controls>
+  <source src="Assets/Robot/Stay.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 	 

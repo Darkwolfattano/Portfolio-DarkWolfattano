@@ -4,7 +4,10 @@
 __About __<br>
 This is a Building, that selfs build when told. <br>
 
-<video width="4000" height = 300 controls> <source src="Assets/Self Building.mp4" type="video/mp4"> </video>
+<video width="100%" height="300" controls>
+  <source src="Assets/Self Building.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
