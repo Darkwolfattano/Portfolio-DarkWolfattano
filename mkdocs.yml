@@ -1,6 +1,9 @@
 site_name: DarkWolfAttano
 nav:
-  - Home: index.md
+  - Home: 
+    - About Me: index.md    
+    - Active Projects: Active Groups.md
+    - Previous Projects: Previous Groups.md
   - CodeExamples: 
     - Robot: ControlPanel.md
     - SelfBuilding: Building.md
