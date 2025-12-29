@@ -1,4 +1,4 @@
-# Age Of Renaissance
+# <span style="color: White;"> **Age Of Renaissance **</span>
 
 === "About"
     Age of Renaissance is an exclusive world-building community dedicated to crafting authentic medieval experiences on Roblox. As a member of this selective group, I collaborate with talented developers to create historically-inspired environments that transport players to the Middle Ages. Our focus on detail and authenticity has established us as leaders in period-accurate game development.
@@ -7,7 +7,7 @@
 === "Roblox"
     <a href="https://www.roblox.com/communities/35608060/g-of-R-naissanc#!/about target="_blank">Roblox!</a>
 
-# War Section LLC
+#  <span style="color: White;"> **War Section LLC**</span>
 === "About"
     As an active developer at War Section LLC, I'm currently architecting an anime-inspired tower defense game that combines strategic gameplay with engaging visual storytelling. This role allows me to push the boundaries of Roblox game mechanics while creating experiences that resonate with the anime gaming community. My contributions span gameplay systems, UI/UX design, and backend networking solutions
 === "Discord"
@@ -17,7 +17,7 @@
 
 
 
-# Attano Studios LLC
+# <span style="color: White;"> **Attano Studios LLC**</span>
 === "About"
     Attano Studios LLC serves as a creative hub for developing passion projects and experimental game concepts. This partnership enables me to explore innovative ideas while maintaining professional development standards. Through this studio, I transform ambitious concepts into polished, player-ready experiences that showcase cutting-edge Roblox development techniques
 === "Roblox"

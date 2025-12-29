@@ -1,4 +1,4 @@
-# Nero 
+# <span style="color: White;"> **Nero**</span>
 
 === "About"
     This Group died awhile back.
@@ -7,17 +7,17 @@
 === "Game"
      <a href="https://www.roblox.com/games/14078801168/Training-Facilities" target="_blank">Game!</a>
 
-# SCP
+# <span style="color: White;"> **SCP**</span>
 === "About"
     This was an SCP group made, worked on and never realeased.
 === "Link"
      <a href="https://www.roblox.com/communities/32021090/SCP-F-Research-Complex-Avon#!/about" target="_blank">Roblox!</a>
-# Blades and Banners
+# <span style="color: White;"> **Blades and Banners**</span>
 === "About"
     This was an active TSK style of game. that was shut down. 
 === "Link"
     <a href="https://www.roblox.com/communities/15914697/Blades-and-Banners-Revival#!/about" target="_blank">Roblox!</a>
-## BellumImperii
+## <span style="color: White;"> ** BellumImperii **</span>
 
 === "North Wind Studios"
 
