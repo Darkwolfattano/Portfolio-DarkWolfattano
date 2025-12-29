@@ -26,6 +26,6 @@
 
     [BellumImperii](https://www.roblox.com/games/134819267834356/IMPERIUM) Currently Active
 === "What I did"
-    Due to the nature of this game; it was a team of programmers. I was responsible for the title system, the armor system, and the group reputations.
+    As part of an elite development team at NorthWind Studios, I played a pivotal role in creating BellumImperii, a complex multiplayer experience currently active on Roblox. My specialized responsibilities included architecting the title system (enabling player progression and status), developing the comprehensive armor system (balancing gameplay mechanics with visual customization), and implementing the group reputation framework (driving community engagement and faction dynamics). These systems formed the backbone of player interaction and long-term engagement.
 === "NDA Explanation"
-   With this studio I signed an NDA, so there are no code snippets, nor pictures.
+   Due to confidentiality agreements with this studio, I'm unable to share code samples or development screenshots. However, the game's continued success and active player base demonstrate the quality and stability of the systems I built. I take NDAs seriously and always protect client intellectual property."

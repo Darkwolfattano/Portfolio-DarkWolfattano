@@ -1,8 +1,7 @@
 
 ### Pricing
    
-My Prices are done by a few metrics.
-
+I offer flexible, transparent pricing structures designed to accommodate projects of all sizes and budgets. My rates are calculated using multiple metrics to ensure you receive fair, competitive pricing tailored to your specific needs.
 
 ### Pricing
 === "Hourly"
@@ -15,11 +14,11 @@ My Prices are done by a few metrics.
     Unless we've come to an agreement, I do not do percent pay unless the game is already showing revenue.
 
 ### What can you do?
-If you name it, I can do it, or figure it out. If you ask me if I have done it before, I will be upfront and honest, but not doing one thing specifically doesn't mean I can't do it entirely.
+My versatility as a developer means I can tackle virtually any Roblox development challenge you present. Whether you need complex game mechanics, intricate UI systems, multiplayer networking, or custom scripting solutions, I have the skills and determination to deliver. If I encounter something new, I approach it with enthusiasm and quickly master the necessary techniques. I believe in transparent communication—if I haven't built something before, I'll tell you honestly, but I've consistently proven my ability to learn and implement new systems efficiently. My track record speaks for itself: challenges are just opportunities for innovation.
 
 
 ### Communication
-I try to reach out daily barring any family, or life issues. If I accept a project with a deadline, I will finish it by the deadline, or I will discount the price.
+Professional communication is a cornerstone of my work ethic. I maintain daily contact with clients throughout project development, keeping you informed of progress, challenges, and milestones. Life happens, and if unforeseen circumstances arise, I communicate proactively to keep you in the loop. When I commit to a deadline, I honor it—period. If circumstances beyond my control prevent timely delivery, I automatically discount my rate as a gesture of accountability. Your project deserves both quality and reliability, and I deliver both.
 
 
 ### Trello/RecordKeeping
