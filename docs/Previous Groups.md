@@ -17,7 +17,7 @@
     This was an active TSK style of game. that was shut down. 
 === "Link"
     <a href="https://www.roblox.com/communities/15914697/Blades-and-Banners-Revival#!/about" target="_blank">Roblox!</a>
-## <span style="color: White;"> ** BellumImperii **</span>
+## <span style="color: White;">**BellumImperii**</span>
 
 === "North Wind Studios"
 
