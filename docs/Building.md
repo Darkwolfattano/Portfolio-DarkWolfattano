@@ -1,4 +1,4 @@
-### Self Building
+### <span style="color: White;"> **Self Building**</span>
 <a href="https://www.roblox.com/games/131592986004949/self-building" target="_blank">Play it for yourself Here</a>
 
 
@@ -14,7 +14,7 @@ This is a Building, that builds itself when prompted. <br>
 
 
 
-## Client
+##  <span style="color: White;"> **Client**</span>
 
 === "Small Explanation"
     The actual movement of this was done on the client to reduce stress on the server.
@@ -62,7 +62,7 @@ This is a Building, that builds itself when prompted. <br>
 	```
 
 
-## Server
+##   <span style="color: White;"> **Server**</span>
 
 
 === "Small Explanation"

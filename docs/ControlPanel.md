@@ -6,7 +6,7 @@
 
 
 
-## Interface
+## <span style="color: White;"> **Interface**</span>
 
 === "About"
     This is an NPC/AI/Robot Controll panel, with an AI robot
@@ -55,7 +55,7 @@
 	</div>
 
 
-## Robot Wander
+## <span style="color: White;"> **Robot Wander **</span>
 
 === "About"
     This robot serves no real purpose in the highlight of this game, but shows Ai interfacing and working. The section will demonstrate the wander feature.
@@ -119,7 +119,8 @@
 	</video>
 	</div>
 
-## Robot Follow 
+## <span style="color: White;"> **Robot Follow**</span>
+
 
 === "About"
 	This feature is to call the robot back to you, after setting it to stay or wander.
@@ -195,7 +196,7 @@
 	</div>
 
 
-## Robot Stay
+## <span style="color: White;"> **Robot Stay**</span>
 
 
 === "About"
